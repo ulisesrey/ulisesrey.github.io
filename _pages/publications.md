@@ -4,10 +4,12 @@ title: Publications
 permalink: /publications/
 ---
 
-Hello, I am a post doc in the Zimmer Lab at the University of Vienna.
+I am a post doc in the Zimmer Lab at the University of Vienna .
+I am interested in understanding the interaction of neuronal activity and behaviour and I mostly use #celegans to understand it.
+For that I use whole brain single neuron freely moving recordings of worms performing different behaviours.
 
 Before that I did my PhD with [Stephan Sigrist](https://www.bcp.fu-berlin.de/biologie/arbeitsgruppen/genetik/ag_sigrist/mitarbeiter/leiter/sigrist/index.html) at the Freie Universität of Berlin, with an IMPRS fellowship from the Max Planck of Colloids and Interfaces in Potsdam, where I had [Reinhard Lipowsky](https://www.mpikg.mpg.de/rl/) as a co-supervisor.
-
+Back then (2012) my research focus was on  synapse assembly. The Sigrist lab  
 ## Publications
 
 [A high affinity RIM-binding protein/Aplip1 interaction prevents the formation of ectopic axonal active zones
@@ -41,4 +43,5 @@ Anela Vukoja*, **Ulises Rey&ast;**  , Astrid Petzoldt*, Dennis Vollweiter, Chris
 Mathias A. Böhme, Anthony W. McCarthy, Andreas T. Grasskamp, Christine B. Beuschel,
 Pragya Goel, Meida Jusyte, Desiree Laber, Sheng Huang, **Ulises Rey**, Astrid G. Petzoldt, Martin Lehmann, Fabian Göttfert, Pejmun Haghighi, Stefan W. Hell, David Owald, Dion Dickman, Stephan J. Sigrist & Alexander M. Walter
 
-
+## PhD thesis
+The results of my work at the Sigrist lab are compiled in my PhD thesis, which you can read [here](https://refubium.fu-berlin.de/handle/fub188/22959).
