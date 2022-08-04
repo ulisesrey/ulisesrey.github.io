@@ -21,7 +21,7 @@ avatar: /images/reverie.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: ulises.rey at univie dot ac dot at
+  email: ulises dot rey at univie dot ac dot at
   facebook:
   flickr:
   github: ulisesrey
@@ -34,6 +34,7 @@ footer-links:
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
   playconsole:
+  googlescholar: https://scholar.google.com/citations?user=1hB28GIAAAAJ&hl=en&authuser=1
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
