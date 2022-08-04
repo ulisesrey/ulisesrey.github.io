@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Publications
-permalink: /publications/
+title: Research
+permalink: /research/
 ---
 
 I am a post doc in the Zimmer Lab at the University of Vienna .
