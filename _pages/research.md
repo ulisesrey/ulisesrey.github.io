@@ -35,7 +35,7 @@ Suneel Reddy-Alla, Mathias Böhme, Eric Reynolds, Christina Beis, Andreas Grassk
 [Presynaptic biogenesis by axonal transport of lysosome-related vesicles
 ](https://www.sciencedirect.com/science/article/pii/S0896627318306779) - **Neuron 2018**
 
-Anela Vukoja*, __Ulises Rey__* , Astrid Petzoldt*, Dennis Vollweiter, Christoph Ott, Christine Quentin, Dymtro Puchkov, Eric Reynolds, Martin Lehmann, Svea Hohensee, Stefanie Rosa, Reinhard Lipowsky, Stephan J. Sigrist and Volker Haucke.
+Anela Vukoja*, __Ulises Rey*__ , Astrid Petzoldt*, Dennis Vollweiter, Christoph Ott, Christine Quentin, Dymtro Puchkov, Eric Reynolds, Martin Lehmann, Svea Hohensee, Stefanie Rosa, Reinhard Lipowsky, Stephan J. Sigrist and Volker Haucke.
 
 
 [Rapid active zone remodeling consolidates presynaptic potentiation](https://www.nature.com/articles/s41467-019-08977-6) - **Nature Neuroscience 2019**
