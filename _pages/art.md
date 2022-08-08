@@ -4,4 +4,6 @@ title: art
 permalink: /art/
 ---
 
-~~ Add some images here ~~
+As a neuroscientist I am interested in  all the phenomena that result form stimulation of our sensory cells.
+One particular one is art. Whenever in the lab, or outside, I find something aesthetically pleasing I try to capture it.
+![img.png](img.png)
