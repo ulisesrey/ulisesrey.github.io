@@ -10,6 +10,8 @@ In my research I want to have a better understanding of behaviour. I want to und
 Random (local) search, global search, directed chemotaxis and food exploitation. 
 <iframe id="player" width="420" height="315" src="https://www.youtube.com/watch?v=cQ4g8hVPx1k" frameborder="0" allowfullscreen></iframe>
 
+Trying embedding
+<embed src="https://www.youtube.com/watch?v=cQ4g8hVPx1k" width="640" height="480" >
 
 I can record what the worms do at a very high resolution, like in this video of a worm laying twin eggs:
 <iframe width="420" height="315" src="https://youtube.com/shorts/B11165THV58" frameborder="0" allowfullscreen></iframe>
@@ -21,7 +23,7 @@ This image shows the neurons of the NeuroPAL strain, each one labeled with a spe
 
 
 And since the 80s we know the connectome, meaning the connections each of these neurons make, thanks to the pioneer work of John White, Sydney Brenner, and [Eileen Shouthgate](https://en.wikipedia.org/wiki/Eileen_Southgate).
-And most recently, thanks to the amazing work of the Mei Zhen lab, which reconstructed several worms at different larval stages (and which you can explore [here](https://nemanode.org/)):
+And most recently, thankse to the amazing work of the Mei Zhen lab, which reconstructed several worms at different larval stages (and which you can explore [here](https://nemanode.org/)):
 <iframe width="420" height="315" src="https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-021-03778-8/MediaObjects/41586_2021_3778_MOESM11_ESM.mp4
 " frameborder="0" allowfullscreen></iframe>
 
