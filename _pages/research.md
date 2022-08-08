@@ -4,12 +4,12 @@ title: Research
 permalink: /research/
 ---
 
-I am a post doc in the Zimmer Lab at the University of Vienna .
-I am interested in understanding the interaction of neuronal activity and behaviour and I mostly use #celegans to understand it.
-For that I use whole brain single neuron freely moving recordings of worms performing different behaviours.
+In my research I want to have a better understanding of behaviour. I want to understand how behaviour is organized and how is it produced. In order to do so, I study the amazing nematode *C. elegans*.
 
-Before that I did my PhD with [Stephan Sigrist](https://www.bcp.fu-berlin.de/biologie/arbeitsgruppen/genetik/ag_sigrist/mitarbeiter/leiter/sigrist/index.html) at the Freie Universität of Berlin, with an IMPRS fellowship from the Max Planck of Colloids and Interfaces in Potsdam, where I had [Reinhard Lipowsky](https://www.mpikg.mpg.de/rl/) as a co-supervisor.
-Back then (2012) my research focus was on  synapse assembly. The Sigrist lab  
+*C. elegans* allows me to analyze and quantify behaviour and behavioural transitions. In this video you can see a worm transitioning through different behaviours until it reaches de bacterial food patch (Dark round spot):
+Random (local) search, global search, directed chemotaxis and food exploitation. 
+<iframe width="420" height="315" src="https://www.youtube.com/watch?v=cQ4g8hVPx1k" frameborder="0" allowfullscreen></iframe>
+
 ## Publications
 
 [A high affinity RIM-binding protein/Aplip1 interaction prevents the formation of ectopic axonal active zones
