@@ -10,6 +10,15 @@ In my research I want to have a better understanding of behaviour. I want to und
 Random (local) search, global search, directed chemotaxis and food exploitation. 
 <iframe width="420" height="315" src="https://www.youtube.com/watch?v=cQ4g8hVPx1k" frameborder="0" allowfullscreen></iframe>
 
+I can record what the worms do at a very high resolution, like in this video of a worm laying twin eggs:
+<iframe width="420" height="315" src="https://youtube.com/shorts/B11165THV58" frameborder="0" allowfullscreen></iframe>
+
+Mei Zhen video:
+<iframe width="420" height="315" src="https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-021-03778-8/MediaObjects/41586_2021_3778_MOESM11_ESM.mp4
+" frameborder="0" allowfullscreen></iframe>
+
+
+
 ## Publications
 
 [A high affinity RIM-binding protein/Aplip1 interaction prevents the formation of ectopic axonal active zones
