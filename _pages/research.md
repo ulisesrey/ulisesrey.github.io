@@ -13,6 +13,12 @@ Random (local) search, global search, directed chemotaxis and food exploitation.
 I can record what the worms do at a very high resolution, like in this video of a worm laying twin eggs:
 <iframe width="420" height="315" src="https://youtube.com/shorts/B11165THV58" frameborder="0" allowfullscreen></iframe>
 
+And I can understand which neurons organize these behaviours because *C. elegans* has a determined number of neurons (300) and the field has generated extensive knowledge of almost each of them, and amazing tools to expand this knowledge.
+This image shows the neurons of the NeuroPAL strain, each one labeled with a specific set of fluorophores:
+<figure><img src="https://ulisesrey.github.io/assets/art-images/neuropal.jpg" style="width:100%"><figcaption align = "center">
+<b>NeuroPAL line - Yemini et al.,  2021</b></figcaption></figure>
+
+
 Mei Zhen video:
 <iframe width="420" height="315" src="https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-021-03778-8/MediaObjects/41586_2021_3778_MOESM11_ESM.mp4
 " frameborder="0" allowfullscreen></iframe>
