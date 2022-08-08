@@ -8,10 +8,9 @@ In my research I want to have a better understanding of behaviour. I want to und
 
 *C. elegans* allows me to analyze and quantify behaviour and behavioural transitions. In this video you can see a worm transitioning through different behaviours until it reaches de bacterial food patch (Dark round spot):
 Random (local) search, global search, directed chemotaxis and food exploitation. 
-<iframe id="player" width="420" height="315" src="https://www.youtube.com/watch?v=cQ4g8hVPx1k" frameborder="0" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cQ4g8hVPx1k" title="C. elegans chemotaxis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 Trying embedding
-<embed src="https://www.youtube.com/watch?v=cQ4g8hVPx1k" width="640" height="480" >
+
 
 I can record what the worms do at a very high resolution, like in this video of a worm laying twin eggs:
 <iframe width="420" height="315" src="https://youtube.com/shorts/B11165THV58" frameborder="0" allowfullscreen></iframe>
