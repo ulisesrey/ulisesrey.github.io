@@ -32,7 +32,7 @@ Since the 80s we know the connectome, meaning the connections each of these neur
 And most recently, thanks to the amazing work of the Mei Zhen lab, we have a better idea of the variations of these connections across individuals (you can explore these datasets [here](https://nemanode.org/)):
 <figure><iframe width="420" height="315" src="https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-021-03778-8/MediaObjects/41586_2021_3778_MOESM11_ESM.mp4
 " frameborder="0" allowfullscreen></iframe>
-<b>Electron Miscropy Reconstruction - Witvliet et al., 2021</b></figcaption></figure>
+<figcaption align = "center"><b>Electron Miscropy Reconstruction - Witvliet et al., 2021</b></figcaption></figure>
 
 
 
