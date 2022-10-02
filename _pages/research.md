@@ -13,7 +13,8 @@ Trying embedding
 
 
 I can record what the worms do at a very high resolution, like in this video of a worm laying twin eggs:
-<iframe width="420" height="315" src="https://youtube.com/shorts/B11165THV58" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/shorts/B11165THV58" title="C. elegans laying eggs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 And I can understand which neurons organize these behaviours because *C. elegans* has a determined number of neurons (300) and the field has generated extensive knowledge of almost each of them, and amazing tools to expand this knowledge.
 This image shows the neurons of the NeuroPAL strain, each one labeled with a specific set of fluorophores:
