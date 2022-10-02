@@ -9,14 +9,14 @@ In my research I want to have a better understanding of behaviour. I want to und
 *C. elegans* allows me to analyze and quantify behaviour and behavioural transitions. In this video you can see a worm transitioning through different behaviours until it reaches de bacterial food patch (Dark round spot):
 Random (local) search, global search, directed chemotaxis and food exploitation. 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cQ4g8hVPx1k" title="C. elegans chemotaxis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-Trying embedding
+
 
 
 I can record what the worms do at a very high resolution, like in this video of a worm laying twin eggs:
-<iframe width="560" height="315" src="https://youtube.com/shorts/B11165THV58" title="C. elegans laying eggs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/shorts/B11165THV58" title="C. elegans laying eggs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 And I can also record the activity of their whole central nervous system at a single neuron resolution (!) while the worms are freely moving. See this video as an example:
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=IS-mZFEVZ5I" title="C. elegans Whole Brain Freely Moving Recording" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IS-mZFEVZ5I" title="C. elegans Whole Brain Freely Moving Recording" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 By combining these two datasets: high resolution behavioural recordings and whole brain recordings I hope to understand better how brain activity drives behaviour, and how behaviour affects brain activity.
 
