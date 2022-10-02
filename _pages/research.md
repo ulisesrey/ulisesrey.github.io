@@ -15,17 +15,25 @@ Trying embedding
 I can record what the worms do at a very high resolution, like in this video of a worm laying twin eggs:
 <iframe width="560" height="315" src="https://youtube.com/shorts/B11165THV58" title="C. elegans laying eggs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+And I can also record the activity of their whole central nervous system at a single neuron resolution (!) while the worms are freely moving. See this video as an example:
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=IS-mZFEVZ5I" title="C. elegans Whole Brain Freely Moving Recording" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-And I can understand which neurons organize these behaviours because *C. elegans* has a determined number of neurons (300) and the field has generated extensive knowledge of almost each of them, and amazing tools to expand this knowledge.
+By combining these two datasets: high resolution behavioural recordings and whole brain recordings I hope to understand better how brain activity drives behaviour, and how behaviour affects brain activity.
+
+Some facts about *C. elegans*:
+
+*C. elegans* has a fixed and determined number of neurons (300) and the field has generated extensive knowledge of almost each of them, and amazing tools to expand this knowledge.
 This image shows the neurons of the NeuroPAL strain, each one labeled with a specific set of fluorophores:
 <figure><img src="https://ulisesrey.github.io/assets/art-images/neuropal.jpg" style="width:100%"><figcaption align = "center">
 <b>NeuroPAL line - Yemini et al.,  2021</b></figcaption></figure>
 
 
-And since the 80s we know the connectome, meaning the connections each of these neurons make, thanks to the pioneer work of John White, Sydney Brenner, and [Eileen Shouthgate](https://en.wikipedia.org/wiki/Eileen_Southgate).
-And most recently, thankse to the amazing work of the Mei Zhen lab, which reconstructed several worms at different larval stages (and which you can explore [here](https://nemanode.org/)):
+Since the 80s we know the connectome, meaning the connections each of these neurons make, thanks to the pioneer work of John White, Sydney Brenner, and [Eileen Shouthgate](https://en.wikipedia.org/wiki/Eileen_Southgate).
+And most recently, thanks to the amazing work of the Mei Zhen lab, we have a better idea of the variations of these connections across individuals (you can explore these datasets [here](https://nemanode.org/)):
 <iframe width="420" height="315" src="https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-021-03778-8/MediaObjects/41586_2021_3778_MOESM11_ESM.mp4
 " frameborder="0" allowfullscreen></iframe>
+
+
 
 
 
@@ -56,7 +64,7 @@ Suneel Reddy-Alla, Mathias Böhme, Eric Reynolds, Christina Beis, Andreas Grassk
 [Presynaptic biogenesis by axonal transport of lysosome-related vesicles
 ](https://www.sciencedirect.com/science/article/pii/S0896627318306779) - **Neuron 2018**
 
-Anela Vukoja*, __Ulises Rey*__ , Astrid Petzoldt*, Dennis Vollweiter, Christoph Ott, Christine Quentin, Dymtro Puchkov, Eric Reynolds, Martin Lehmann, Svea Hohensee, Stefanie Rosa, Reinhard Lipowsky, Stephan J. Sigrist and Volker Haucke.
+Anela Vukoja*, Ulises Rey*, Astrid Petzoldt*, Dennis Vollweiter, Christoph Ott, Christine Quentin, Dymtro Puchkov, Eric Reynolds, Martin Lehmann, Svea Hohensee, Stefanie Rosa, Reinhard Lipowsky, Stephan J. Sigrist and Volker Haucke.
 
 
 [Rapid active zone remodeling consolidates presynaptic potentiation](https://www.nature.com/articles/s41467-019-08977-6) - **Nature Neuroscience 2019**
