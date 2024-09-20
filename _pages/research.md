@@ -4,21 +4,21 @@ title: Research
 permalink: /research/
 ---
 
-In my research I want to have a better understanding of behaviour. I want to understand how behaviour is organized and how it is produced. In order to do so, I study the amazing nematode *C. elegans*.
+In my research at the University of Vienna, I wanted to have a better understanding of behaviour. I wanted to understand how behaviour is organized and how it is produced. In order to do so, I studied the amazing nematode *C. elegans*.
 
-*C. elegans* allows me to analyze and quantify behaviour and behavioural transitions. In this video you can see a worm transitioning through different behaviours until it reaches de bacterial food patch (Dark round spot):
+*C. elegans* allowed me to analyze and quantify behaviour and behavioural transitions. In this video you can see a worm transitioning through different behaviours until it reaches de bacterial food patch (Dark round spot):
 Random (local) search, global search, directed chemotaxis and food exploitation. 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cQ4g8hVPx1k" title="C. elegans chemotaxis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
-I can record what the worms do at a very high resolution, like in this video of a worm laying twin eggs:
+I could record what the worms do at a very high resolution, like in this video of a worm laying twin eggs:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B11165THV58" title="C. elegans laying eggs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-And I can also record the activity of their whole central nervous system at a single neuron resolution (!) while the worms are freely moving. See this video as an example:
+And I could also record the activity of their whole central nervous system at a single neuron resolution (!) while the worms were freely moving. See this video as an example:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IS-mZFEVZ5I" title="C. elegans Whole Brain Freely Moving Recording" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-By combining these two datasets: high resolution behavioural recordings and whole brain recordings I hope to understand better how brain activity drives behaviour, and how behaviour affects brain activity.
+By combining these two datasets: high resolution behavioural recordings and whole brain recordings we can understand better how brain activity drives behaviour, and how behaviour affects brain activity.
 
 ### Some facts about *C. elegans*:
 
