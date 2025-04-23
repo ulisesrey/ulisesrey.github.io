@@ -42,6 +42,10 @@ And most recently, thanks to the amazing work of the Mei Zhen lab, we have a bet
 
 ## Publications
 
+[An intrinsic neuronal manifold underlies brain-wide hierarchical organization of behavior in C. elegans](https://www.biorxiv.org/content/10.1101/2025.03.09.642241v2) - **bioRxiv 2025**
+
+Charles Fieseler, Itamar Lev, **Ulises Rey**, Lukas Hille, Hannah Brenner, Manuel Zimmer.
+
 [A high affinity RIM-binding protein/Aplip1 interaction prevents the formation of ectopic axonal active zones
 ](https://elifesciences.org/articles/06935) - **eLife 2015**
 
